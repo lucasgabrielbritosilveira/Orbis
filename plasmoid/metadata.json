@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Id": "org.kde.audioequalizer",
+        "Name": "Orbis Equalizer",
+        "Version": "1.0.0",
+        "Description": "Global Audio Equalizer using PipeWire",
+        "Icon": "audio-volume-high",
+        "Authors": [
+            {
+                "Name": "Orbis",
+                "Email": "orbis@localhost"
+            }
+        ]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
